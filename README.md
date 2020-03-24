@@ -1,0 +1,2 @@
+# publiccovid
+covid data
